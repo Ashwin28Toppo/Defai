@@ -67,7 +67,7 @@ DeFAI/
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
-> This project was developed as a team hackathon project.  
+> This project was developed as a team project.  
 > Original repository: https://github.com/Ayushdas1904/Defai
 
 ```bash
