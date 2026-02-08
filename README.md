@@ -67,10 +67,13 @@ DeFAI/
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
+> This project was developed as a team hackathon project.  
+> Original repository: https://github.com/Ayushdas1904/Defai
+
 ```bash
-git clone https://github.com/Ayushdas1904/Defai.git
+git clone https://github.com/Ashwin28Toppo/Defai.git
 cd Defai
-````
+
 
 ### 2️⃣ Install dependencies
 
