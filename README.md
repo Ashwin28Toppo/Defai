@@ -73,7 +73,7 @@ DeFAI/
 ```bash
 git clone https://github.com/Ashwin28Toppo/Defai.git
 cd Defai
-
+```
 
 ### 2️⃣ Install dependencies
 
